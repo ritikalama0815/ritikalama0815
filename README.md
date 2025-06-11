@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritika lama</h1>
 <h3 align="center">An aspiring developer pursuing my Bachelor's at Truman State University.</h3>
 
-- I’m currently working on [AI interviewer](https://github.com/ritikalama0815/interview-prep)
+- I’m currently working on [Interview Prep](https://github.com/ritikalama0815/interview-prep)
 
 - I’m currently learning **React, Swift, Data Structures and Algorithms, Cloud Computing, and Databases.**
 
