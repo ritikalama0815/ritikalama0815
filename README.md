@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritika lama</h1>
+<h1 align="center">Hi, I'm Ritika</h1>
 <h3 align="center">An aspiring developer pursuing my Bachelor's at Truman State University.</h3>
 
 - I’m currently working on [Full Stack](https://github.com/ritikalama0815/backend-prac)
@@ -9,7 +9,7 @@
 
 - How to reach me **ritikatheeng2002@gmail.com**
 
-- ⚡ Fun fact **I can write with both hands ✍🏼.**
+- ⚡ Fun fact **I can write with both hands even though left hand is a bit shabby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
