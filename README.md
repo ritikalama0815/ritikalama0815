@@ -1,5 +1,5 @@
 ### About Me:
-I'm Ritika Lama, a graduate student and upcoming software engineer. 
+I'm Ritika Lama, a graduate student and upcoming software engineer. <br>
 I'm currently working on Campus Hub.<br>I'm currently learning containerization, Angular, and cloud computing.<br>Ask me about React, machine learning, and Python and its libraries.<br>
 
 
