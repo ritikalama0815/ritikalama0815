@@ -6,16 +6,16 @@
   </a>
 </p>
 
-## About Me
-- I'm currently working on Campus Hub project; any contributions are welcome.
-- I'm learning Angular, containerization, and cloud computing in details; any resources are welcome.
+### About Me
+I'm currently working on Campus Hub project; any contributions are welcome.
+<br>I'm learning Angular, containerization, and cloud computing in details; any resources are welcome.
 
 
-## My Focus Areas
-- Full-Stack Software Development | AI/ML Research | Open-source contributions
+### My Interest Areas
+Full-Stack Software Development | AI/ML Research | Open-source contributions
 
 
-## GitHub Stats & Trophies
+### GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ritikalama0815&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="" width="49%" />
 </p>
@@ -27,7 +27,7 @@
 </p>
 
 
-## Languages & Tools
+### Tech Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
