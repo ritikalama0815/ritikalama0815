@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-I'm currently working on Campus Hub project; any contributions are welcome.
+I'm currently working on License Plate recognition; any contributions are welcome.
 <br>I'm learning Angular, containerization, and cloud computing in details; any resources are welcome.
 
 
