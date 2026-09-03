@@ -7,8 +7,8 @@
 </p>
 
 ### About Me
-I'm currently working on License Plate recognition; any contributions are welcome.
-<br>I'm learning Angular, containerization, and cloud computing in details; any resources are welcome.
+I'm currently working on Collaborative Code Editor; any contributions are welcome.
+<br>I'm learning Angular, .Net, and cloud computing in details; any resources are welcome.
 
 
 ### My Interest Areas
@@ -42,7 +42,6 @@ Full-Stack Software Development | AI/ML Research | Open-source contributions
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
@@ -69,9 +68,7 @@ Full-Stack Software Development | AI/ML Research | Open-source contributions
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
 
 </p>
 
@@ -95,9 +92,9 @@ Full-Stack Software Development | AI/ML Research | Open-source contributions
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritika-lama-b2605b2a4/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ritika Lama's LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ritikalama0815"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ritika Lama's LinkedIn"/></a>&nbsp;
   <a href="mailto:ritikatheeng2002@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ritika Lama's Email"/></a>&nbsp;
-  <a href="https://my-portfolio-taupe-tau-15.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="ritikalama.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 <p align="center">
