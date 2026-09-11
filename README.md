@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-I'm currently working on Collaborative Code Editor; any contributions are welcome.
+I'm currently working on Doctor's Translator; any contributions are welcome.
 <br>I'm learning Angular, .Net, and cloud computing in details; any resources are welcome.
 
 
