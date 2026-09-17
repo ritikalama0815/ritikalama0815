@@ -7,8 +7,8 @@
 </p>
 
 ### About Me
-I'm currently working on Doctor's Translator; any contributions are welcome.
-<br>I'm learning Angular, .Net, and cloud computing in details; any resources are welcome.
+I'm currently working on Devpost Projects; any recommendations are welcome.
+<br>I'm learning Angular, .Net, and Azure in details; any resources are welcome.
 
 
 ### My Interest Areas
