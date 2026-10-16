@@ -6,12 +6,12 @@
   </a>
 </p>
 
-### About Me
+### about me
 i'm currently working.
 <br>i'm learning Go.
 
 
-### My Interest Areas
+### interest areas
 full-stack sde | ai/ml research | Open-source contributions | online hackathons @ devpost
 
 
