@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ritika%20Lama&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=2026%20CS%20Grad%20%7C%20Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ritika%20Lama&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=2026%20comp%20sci%20grad%20%7C%20software%20developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ritikalama0815">
@@ -8,7 +8,7 @@
 
 ### About Me
 i'm currently working.
-<br>I'm learning Go.
+<br>i'm learning Go.
 
 
 ### My Interest Areas
